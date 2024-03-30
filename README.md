@@ -1,6 +1,7 @@
 # C-C-in-vs-code
-1.step 
+1.step  
 check everything is install
+https://www.freecodecamp.org/news/how-to-install-c-and-cpp-compiler-on-windows/
 
 2.step
 open VS code and creat C/C++ file
